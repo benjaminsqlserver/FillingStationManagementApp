@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BczrORGw6cZxS5fBMGUGEuNqi4mykULIGJHg65Y5Y0M=",
+  "Source": "FillingStationManagementApp.API",
+  "BasePath": "_content/FillingStationManagementApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@FillingStationManagementApp.API_HostAddress = http://localhost:5087
+
+GET {{FillingStationManagementApp.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

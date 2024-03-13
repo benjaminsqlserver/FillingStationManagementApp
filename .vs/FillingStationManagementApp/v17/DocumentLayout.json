@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E1B501-FF43-41EB-8DC4-21A90E34FDD0}|FillingStationManagementApp.API\\FillingStationManagementApp.API.csproj|c:\\users\\user\\source\\repos\\fillingstationmanagementapp\\fillingstationmanagementapp.api\\fillingstationmanagementapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C6E1B501-FF43-41EB-8DC4-21A90E34FDD0}|FillingStationManagementApp.API\\FillingStationManagementApp.API.csproj|solutionrelative:fillingstationmanagementapp.api\\fillingstationmanagementapp.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33203F25-2F54-4E18-99B8-937515B0BFA0}|FillingStationManagementApp.Infrastructure\\FillingStationManagementApp.Infrastructure.csproj|c:\\users\\user\\source\\repos\\fillingstationmanagementapp\\fillingstationmanagementapp.infrastructure\\fillingstationmanagementapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33203F25-2F54-4E18-99B8-937515B0BFA0}|FillingStationManagementApp.Infrastructure\\FillingStationManagementApp.Infrastructure.csproj|solutionrelative:fillingstationmanagementapp.infrastructure\\fillingstationmanagementapp.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE7923A-4236-4D67-BDD7-8F6F9A1F0887}|FillingStationManagementApp.Application\\FillingStationManagementApp.Application.csproj|c:\\users\\user\\source\\repos\\fillingstationmanagementapp\\fillingstationmanagementapp.application\\fillingstationmanagementapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAE7923A-4236-4D67-BDD7-8F6F9A1F0887}|FillingStationManagementApp.Application\\FillingStationManagementApp.Application.csproj|solutionrelative:fillingstationmanagementapp.application\\fillingstationmanagementapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33203F25-2F54-4E18-99B8-937515B0BFA0}|FillingStationManagementApp.Infrastructure\\FillingStationManagementApp.Infrastructure.csproj|c:\\users\\user\\source\\repos\\fillingstationmanagementapp\\fillingstationmanagementapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33203F25-2F54-4E18-99B8-937515B0BFA0}|FillingStationManagementApp.Infrastructure\\FillingStationManagementApp.Infrastructure.csproj|solutionrelative:fillingstationmanagementapp.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C0521A5-FE01-4D43-B217-A4E5401EB9A3}|FillingStationManagementApp.Core\\FillingStationManagementApp.Core.csproj|c:\\users\\user\\source\\repos\\fillingstationmanagementapp\\fillingstationmanagementapp.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C0521A5-FE01-4D43-B217-A4E5401EB9A3}|FillingStationManagementApp.Core\\FillingStationManagementApp.Core.csproj|solutionrelative:fillingstationmanagementapp.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE7923A-4236-4D67-BDD7-8F6F9A1F0887}|FillingStationManagementApp.Application\\FillingStationManagementApp.Application.csproj|c:\\users\\user\\source\\repos\\fillingstationmanagementapp\\fillingstationmanagementapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE7923A-4236-4D67-BDD7-8F6F9A1F0887}|FillingStationManagementApp.Application\\FillingStationManagementApp.Application.csproj|solutionrelative:fillingstationmanagementapp.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FillingStationManagementApp.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Infrastructure\\FillingStationManagementApp.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "FillingStationManagementApp.Infrastructure\\FillingStationManagementApp.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Infrastructure\\FillingStationManagementApp.Infrastructure.csproj",
+              "RelativeToolTip": "FillingStationManagementApp.Infrastructure\\FillingStationManagementApp.Infrastructure.csproj",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T13:45:31.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "FillingStationManagementApp.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "FillingStationManagementApp.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:44:53.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FillingStationManagementApp.Application",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Application\\FillingStationManagementApp.Application.csproj",
+              "RelativeDocumentMoniker": "FillingStationManagementApp.Application\\FillingStationManagementApp.Application.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Application\\FillingStationManagementApp.Application.csproj",
+              "RelativeToolTip": "FillingStationManagementApp.Application\\FillingStationManagementApp.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T13:40:19.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "FillingStationManagementApp.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Application\\Class1.cs",
+              "RelativeToolTip": "FillingStationManagementApp.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:39:56.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "FillingStationManagementApp.Core\\Class1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.Core\\Class1.cs",
+              "RelativeToolTip": "FillingStationManagementApp.Core\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T13:39:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FillingStationManagementApp.API",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.API\\FillingStationManagementApp.API.csproj",
+              "RelativeDocumentMoniker": "FillingStationManagementApp.API\\FillingStationManagementApp.API.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FillingStationManagementApp\\FillingStationManagementApp.API\\FillingStationManagementApp.API.csproj",
+              "RelativeToolTip": "FillingStationManagementApp.API\\FillingStationManagementApp.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-13T13:35:15.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

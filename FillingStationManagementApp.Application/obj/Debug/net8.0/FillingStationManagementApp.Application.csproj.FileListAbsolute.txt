@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\bin\Debug\net8.0\FillingStationManagementApp.Application.deps.json
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\bin\Debug\net8.0\FillingStationManagementApp.Application.dll
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\bin\Debug\net8.0\FillingStationManagementApp.Application.pdb
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\bin\Debug\net8.0\FillingStationManagementApp.Core.dll
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\bin\Debug\net8.0\FillingStationManagementApp.Core.pdb
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\FillingStationManagementApp.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\FillingStationManagementApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\FillingStationManagementApp.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\FillingStationManagementApp.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\FillingStationManagementApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\FillingS.80B5A754.Up2Date
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\FillingStationManagementApp.Application.dll
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\refint\FillingStationManagementApp.Application.dll
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\FillingStationManagementApp.Application.pdb
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Application\obj\Debug\net8.0\ref\FillingStationManagementApp.Application.dll

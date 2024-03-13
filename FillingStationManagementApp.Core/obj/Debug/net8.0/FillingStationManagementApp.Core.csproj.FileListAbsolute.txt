@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\bin\Debug\net8.0\FillingStationManagementApp.Core.deps.json
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\bin\Debug\net8.0\FillingStationManagementApp.Core.dll
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\bin\Debug\net8.0\FillingStationManagementApp.Core.pdb
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\obj\Debug\net8.0\FillingStationManagementApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\obj\Debug\net8.0\FillingStationManagementApp.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\obj\Debug\net8.0\FillingStationManagementApp.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\obj\Debug\net8.0\FillingStationManagementApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\obj\Debug\net8.0\FillingStationManagementApp.Core.dll
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\obj\Debug\net8.0\refint\FillingStationManagementApp.Core.dll
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\obj\Debug\net8.0\FillingStationManagementApp.Core.pdb
+C:\Users\user\source\repos\FillingStationManagementApp\FillingStationManagementApp.Core\obj\Debug\net8.0\ref\FillingStationManagementApp.Core.dll
