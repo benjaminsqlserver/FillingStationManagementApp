@@ -8,13 +8,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FillingStationManagementApp.Infrastructure.Repositories
+namespace FillingStationManagementApp.Infrastructure.Repositories.Base
 {
-    public class Int64Repository<T> : IInt64Repository<T> where T : Integer64KeyEntity
+    public class Int32Repository<T> : IInt32Repository<T> where T : Integer32KeyEntity
     {
         protected readonly FillingStationDBContext _fillingStationDBContext;
 
-        public Int64Repository(FillingStationDBContext fillingStationDBContext)
+        public Int32Repository(FillingStationDBContext fillingStationDBContext)
         {
             _fillingStationDBContext = fillingStationDBContext;
         }
@@ -36,7 +36,7 @@ namespace FillingStationManagementApp.Infrastructure.Repositories
             return await _fillingStationDBContext.Set<T>().ToListAsync();
         }
 
-        public async Task<T> GetByIdAsync(long id)
+        public async Task<T> GetByIdAsync(int id)
         {
             return await _fillingStationDBContext.Set<T>().FindAsync(id);
         }
