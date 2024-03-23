@@ -3,7 +3,7 @@ using FillingStationManagementApp.Application.Commands;
 using FillingStationManagementApp.Application.Responses;
 using FillingStationManagementApp.Core.Entities;
 
-namespace FuelPriceManagementApp.Application.Mappers
+namespace FillingStationManagementApp.Application.Mappers
 {
     public class FuelPriceMappingProfile : Profile
     {
