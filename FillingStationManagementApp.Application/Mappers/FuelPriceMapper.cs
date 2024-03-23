@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FuelPriceManagementApp.Application.Mappers
+namespace FillingStationManagementApp.Application.Mappers
 {
     public class FuelPriceMapper
     {

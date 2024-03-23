@@ -3,7 +3,7 @@ using FillingStationManagementApp.Application.Commands;
 using FillingStationManagementApp.Application.Responses;
 using FillingStationManagementApp.Core.Entities;
 using FillingStationManagementApp.Core.Repositories;
-using FuelPriceManagementApp.Application.Mappers;
+using FillingStationManagementApp.Application.Mappers;
 using MediatR;
 using System;
 using System.Collections.Generic;
