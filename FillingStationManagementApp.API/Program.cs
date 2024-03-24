@@ -1,25 +1,43 @@
-var builder = WebApplication.CreateBuilder(args);
+using FillingStationManagementApp.API;
+using Microsoft.OpenApi.Writers;
+using FillingStationManagementApp.Infrastructure.Data;
 
-// Add services to the container.
-
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-
-var app = builder.Build();
-
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+namespace FillingStationManagementApp.API
 {
-    app.UseSwagger();
-    app.UseSwaggerUI();
+    public class Program
+    {
+        public static async Task Main(string[] args)
+        {
+            var host = CreateHostBuilder(args).Build();
+            await CreateAndSeedDb(host);
+            host.Run();
+        }
+
+        private static async Task CreateAndSeedDb(IHost host)
+        {
+            using (var scope = host.Services.CreateScope())
+            {
+                var services = scope.ServiceProvider;
+                var loggerFactory = services.GetRequiredService<ILoggerFactory>();
+                try
+                {
+                    var fillingStationContext = services.GetRequiredService<FillingStationDBContext>();
+                    await FillingStationContextSeed.SeedAsync(fillingStationContext, loggerFactory);
+
+                }
+                catch (Exception ex)
+                {
+                    var logger = loggerFactory.CreateLogger<Program>();
+                    logger.LogError($"Exception Occurred In API: {ex.Message}");
+                }
+            }
+        }
+
+        private static IHostBuilder CreateHostBuilder(string[] args)
+         => Host.CreateDefaultBuilder(args)
+            .ConfigureWebHostDefaults(webBuilder =>
+            {
+                webBuilder.UseStartup<Startup>();
+            });
+    }
 }
-
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
-app.MapControllers();
-
-app.Run();
