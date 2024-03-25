@@ -8,6 +8,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using System.Reflection;
+using System.Text.Json.Serialization;
 
 namespace FillingStationManagementApp.API
 {
@@ -22,7 +23,7 @@ namespace FillingStationManagementApp.API
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddControllers();
+            services.AddControllers().AddJsonOptions(x =>x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.Preserve);
             services.AddApiVersioning();
             services.AddDbContext<FillingStationDBContext>(m => m.UseSqlServer(Configuration.GetConnectionString("FillingStationConnection")), ServiceLifetime.Singleton);
             services.AddSwaggerGen(c =>
